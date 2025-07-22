@@ -1,0 +1,6 @@
+Order ID,Order Date,Region,Category,Sales,Profit
+1,2023-01-01,East,Furniture,250.0,20.0
+2,2023-01-02,West,Technology,150.0,15.0
+3,2023-01-03,East,Office Supplies,75.0,5.0
+4,2023-01-04,South,Furniture,300.0,25.0
+5,2023-01-05,North,Technology,200.0,30.0
